@@ -1,1 +1,1 @@
-This is the first document. I am working with the git. Server updated this document. I have updated this file from github repository.
+This is the first document. I am working with the git. Server updated this document. I have updated this file from github repository. These changes are done from the local repo.
