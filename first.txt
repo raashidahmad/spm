@@ -1,1 +1,1 @@
-This is the first document. I am working with the git. Server updated this document.
+This is the first document. I am working with the git. Server updated this document. This document is updated locally.
