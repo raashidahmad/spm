@@ -1,1 +1,2 @@
 A new document created for test.
+Changes made to the document on github, must be detected in pull.
